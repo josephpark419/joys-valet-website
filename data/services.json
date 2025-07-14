@@ -1,0 +1,23 @@
+{
+  "apartmentCleaning": [
+    {"size": "Studio Apartment", "price": "$120.00"},
+    {"size": "1 Bedroom / 1 Bathroom", "price": "$130.00"},
+    {"size": "1 Bedroom / 1.5 Bathrooms", "price": "$140.00"},
+    {"size": "2 Bedrooms / 1 Bathroom", "price": "$145.00"},
+    {"size": "2 Bedrooms / 1.5 Bathrooms", "price": "$155.00"},
+    {"size": "2 Bedrooms / 2 Bathrooms", "price": "$165.00"},
+    {"size": "3+ Bedrooms", "price": "Contact for Quote"}
+  ],
+  "dryCleaning": [
+    {"item": "Shirt/Blouse", "price": "$8.50"},
+    {"item": "Pants/Trousers", "price": "$12.00"},
+    {"item": "Suit (2-piece)", "price": "$28.00"},
+    {"item": "Dress", "price": "$15.00"},
+    {"item": "Coat/Jacket", "price": "$18.00"}
+  ],
+  "laundry": [
+    {"service": "Wash & Fold (per lb)", "price": "$3.50"},
+    {"service": "Wash & Hang (per item)", "price": "$4.00"},
+    {"service": "Comforter/Duvet", "price": "$25.00"}
+  ]
+}
