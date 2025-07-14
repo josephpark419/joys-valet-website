@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "echo 'Using pre-built files'",
-    "start": "serve -s ."
+    "start": "serve -s .",
+    "build": "echo 'Already built'"
   },
   "dependencies": {
     "serve": "^14.2.0"
